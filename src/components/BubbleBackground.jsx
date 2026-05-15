@@ -28,7 +28,7 @@ const BubbleBackground = () => (
       const z = Math.random() * 400 - 200;
       const rx = Math.random() * 40 - 20;
       const ry = Math.random() * 40 - 20;
-      const imgSrc2 = "https://i.postimg.cc/9QNgZPgG/Whats-App-Image-2026-05-13-at-10-53-53-AM.jpg"
+      const imgSrc2 = "https://i.postimg.cc/jjcG2yQ8/IMG-20260511-221344.jpg"
       const imgSrc= "https://i.postimg.cc/jjcG2yQ8/IMG-20260511-221344.jpg"
       
       return (
