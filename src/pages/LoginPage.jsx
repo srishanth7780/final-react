@@ -20,7 +20,7 @@ const LoginPage = () => {
     setLoading(true);
     setError("");
     try {
-      const response = await fetch("http://127.0.0.1:3001/api/auth/login", {
+      const response = await fetch("http://localhost:3001/api/auth/login", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ username: creds.username, password: creds.password }),
@@ -50,7 +50,7 @@ const LoginPage = () => {
     setLoading(true);
     setError("");
     try {
-      const response = await fetch("http://127.0.0.1:3001/api/auth/signup", {
+      const response = await fetch("http://localhost:3001/api/auth/signup", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ username: creds.username, email: creds.email, password: creds.password }),
