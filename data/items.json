@@ -1,0 +1,143 @@
+[
+  {
+    "id": "ecfdef1b-f645-4e85-b3b2-82badc878688",
+    "title": "BIKE construction book",
+    "description": "This is the most trending book in the current market ",
+    "image": "https://i1-e.pinimg.com/736x/c7/f2/fa/c7f2fa94fe06e27421d8eb4529698ffc.jpg",
+    "category": "Art",
+    "startPrice": 23,
+    "reservePrice": 25,
+    "duration": 168,
+    "currentBid": 23,
+    "bids": [],
+    "seller": "SRISHANTH KONDOJU",
+    "sold": false,
+    "endsAt": 1779437943327
+  },
+  {
+    "id": "66324b2b-58a9-4891-8d5a-82d993c0fb2c",
+    "title": "Super Bike",
+    "description": "This bike travelled only 1000 kms.\nso if u have any intrest u can bid",
+    "image": "https://i1-e.pinimg.com/736x/da/da/77/dada770ecfd3ce3aece4d8eef7c4c978.jpg",
+    "category": "Vehicles",
+    "startPrice": 3000,
+    "reservePrice": 3100,
+    "duration": 168,
+    "currentBid": 3000,
+    "bids": [],
+    "seller": "bob",
+    "sold": false,
+    "endsAt": 1779399232913
+  },
+  {
+    "id": "50be941d-07d6-4d72-8523-9b70c9b1d1d7",
+    "title": "car",
+    "description": "adfghjklwertyiop.,mnbvcxz",
+    "image": "https://i1-e.pinimg.com/736x/61/40/c9/6140c95dd29f906e573837fda334748a.jpg",
+    "category": "Vehicles",
+    "startPrice": 20000,
+    "reservePrice": 21000,
+    "duration": 168,
+    "currentBid": 20000,
+    "bids": [],
+    "seller": "alice",
+    "sold": false,
+    "endsAt": 1779390311518
+  },
+  {
+    "id": "7c79da60-fef8-4a6f-a9d6-29f158b4afe3",
+    "title": "Abstract Oil Canvas #7",
+    "description": "Rare original abstract oil painting by emerging artist Lena Kova. Signed & certified.",
+    "image": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?w=600&q=80",
+    "category": "Art",
+    "startPrice": 1200,
+    "currentBid": 3450,
+    "reservePrice": 5000,
+    "seller": "alice",
+    "bids": [
+      {
+        "bidder": "bob",
+        "amount": 3450,
+        "time": 1778779622955
+      }
+    ],
+    "endsAt": 1778848022955,
+    "sold": false
+  },
+  {
+    "id": "a0bd98a5-8ed7-4d40-ad13-7e4d062b873d",
+    "title": "Vintage Rolex Submariner 1968",
+    "description": "Pristine condition. Original patina dial. Full box and papers.",
+    "image": "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?w=600&q=80",
+    "category": "Watches",
+    "startPrice": 8000,
+    "currentBid": 15200,
+    "reservePrice": 20000,
+    "seller": "bob",
+    "bids": [
+      {
+        "bidder": "alice",
+        "amount": 15200,
+        "time": 1778776022955
+      }
+    ],
+    "endsAt": 1778804822955,
+    "sold": true
+  },
+  {
+    "id": "3322af6c-a1a6-4eb9-9cdb-dad4b5e7ec74",
+    "title": "Signed First Edition — Dune",
+    "description": "Frank Herbert's Dune, 1965 first edition. Author signature on title page.",
+    "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=600&q=80",
+    "category": "Collectibles",
+    "startPrice": 500,
+    "currentBid": 2800,
+    "reservePrice": 3500,
+    "seller": "alice",
+    "bids": [],
+    "endsAt": 1778956022955,
+    "sold": false
+  },
+  {
+    "id": "6772c6e5-ffcc-4f6d-a87d-4a5c75b0e91c",
+    "title": "Tesla Model S Plaid 2022",
+    "description": "2022 Tesla Model S Plaid. Full Self-Driving, 1,020 HP. One owner, 8k miles.",
+    "image": "https://images.unsplash.com/photo-1617788138017-80ad40651399?w=600&q=80",
+    "category": "Vehicles",
+    "startPrice": 65000,
+    "currentBid": 79000,
+    "reservePrice": 90000,
+    "seller": "admin",
+    "bids": [],
+    "endsAt": 1779042422955,
+    "sold": false
+  },
+  {
+    "id": "ee7f6ad7-210e-40f2-8b9d-ea3d3bf40081",
+    "title": "Sapphire & Diamond Necklace",
+    "description": "Natural Ceylon sapphire center, 4.2 carats. Set in 18k white gold with baguette diamonds.",
+    "image": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=600&q=80",
+    "category": "Jewelry",
+    "startPrice": 3200,
+    "currentBid": 5600,
+    "reservePrice": 7000,
+    "seller": "bob",
+    "bids": [],
+    "endsAt": 1778912822955,
+    "sold": false
+  },
+  {
+    "id": "729dadc8-66fc-4bef-946c-75bc54067bdf",
+    "title": "MacBook Pro M4 Max — Factory Sealed",
+    "description": "16-inch MacBook Pro with M4 Max chip. 64GB RAM, 4TB SSD. Still sealed.",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=600&q=80",
+    "category": "Electronics",
+    "startPrice": 3500,
+    "currentBid": 4200,
+    "reservePrice": 4500,
+    "seller": "admin",
+    "bids": [],
+    "endsAt": 1778776022955,
+    "sold": true
+  }
+]
